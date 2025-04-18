@@ -4,7 +4,7 @@ Hi 👋 My name is Weerapat Luengsaard
 Programmer
 ----------
 
-I'm currently in my 3rd years studying at Huachiew University
+I'm currently in my 4th years studying at Huachiew University
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [weerapatluengsaard@gmail.com](mailto:weerapatluengsaard@gmail.com)
