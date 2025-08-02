@@ -1,14 +1,14 @@
 Hi 👋 My name is Weerapat Luengsaard
 ====================================
 
-Programmer
+Programmer,Software Tester
 ----------
 
-I'm currently in my 4th years studying at Huachiew University
+I'm Graduate from Huachiew University 
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [weerapatluengsaard@gmail.com](mailto:weerapatluengsaard@gmail.com)
-      Some Project are currently private due to Sensitive Data
+*      Some Project are currently private due to Sensitive Data
 ### Skills
 
 
